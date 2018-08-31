@@ -1,14 +1,13 @@
 # Vegan Banana Bread
+
 ### Ingredients
 * All Purpose Flour 1.5 cups
 * Baking Powder 1/4 tsp
 * Baking Soda 1/2 tspn
 * Cinnamon 1/4 tspn 
 * Salt 1/2 tspn
-
 * Semi Sweet Chocolate Chips 1/2 cup 
 * Walnuts 1/2 cup, chopped
-
 * Vegetable Oil 1/2 cup
 * Granulated Sugar 3/4 cup
 * Bananas 3 medium size, mashed
