@@ -11,7 +11,6 @@
 * 1 tbsp ground cumin
 * 1 tsp coriander
 * 1/2 tsp chipotle powder
-
 * 2 lb ground beef
 * 1 cup chicken stock
 * 1 cup fire-roasted tomatos
