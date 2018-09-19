@@ -1,7 +1,7 @@
 # Mini Turkey Meatballs
 [Giada de Laurentiis](https://www.foodnetwork.com/recipes/giada-de-laurentiis/mini-turkey-meatballs-2095728)
 
-# Ingredients
+### Ingredients
 * 1 small onion, grated
 * 3 garlic cloves, minced
 * 1 large egg

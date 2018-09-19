@@ -19,7 +19,7 @@
 * 1 tbsp soy sauce 
 
 ### Instructions
-1.Heat oil in a 12-inch skillet over medium-high heat until shimmering. Add onions and cook until softened and beginning to brown around the edges, 5-7 minutes. Add jalapeños and garlic and cook until fragrant, about 30 seconds. Add chili powder, oregano, cumin, coriander, and chipotle powder and cook until fragrant, about 30 seconds. Add ground chuck and cook, breaking apart with a wooden spoon or potato masher, until browned throughout, about 5 minutes.
+1. Heat oil in a 12-inch skillet over medium-high heat until shimmering. Add onions and cook until softened and beginning to brown around the edges, 5-7 minutes. Add jalapeños and garlic and cook until fragrant, about 30 seconds. Add chili powder, oregano, cumin, coriander, and chipotle powder and cook until fragrant, about 30 seconds. Add ground chuck and cook, breaking apart with a wooden spoon or potato masher, until browned throughout, about 5 minutes.
 2. Stir in chicken stock and diced tomatoes and bring to a boil. Reduce to a simmer and cook until liquid thickens, about 15 minutes. Stir in cilantro lime juice, and soy sauce, and season with salt to taste.
 
 #mexican
