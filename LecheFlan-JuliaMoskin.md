@@ -1,6 +1,6 @@
 # Leche Flan (Julia Moskin)
 **Notes: This was thinner than expected for a leche flan. Tasted like normal flan, not the creamiest**
-https://www.nytimes.com/2016/12/20/dining/flan-recipe-video.html
+[New York Times](https://www.nytimes.com/2016/12/20/dining/flan-recipe-video.html)
 
 ### Ingredients
 * 2 1/2 c sugar
