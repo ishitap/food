@@ -76,7 +76,7 @@ ol li {
 	margin-bottom: 16px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-device-width: 600px) {
 	body {
 		padding-left: 24px;
 		padding-right: 24px;
