@@ -10,6 +10,7 @@ body {
 	font-size: 14px;
 	line-height: 24px;
 	-webkit-font-smoothing: antialiased;
+	box-sizing: border-box;
 }
 
 img {
@@ -19,8 +20,11 @@ img {
 }
 
 div {
-	min-width: 250px;
-	padding: 16px;
+	box-sizing: border-box;
+	min-width: 300px;
+	padding: 24px;
+	max-height: 100vh;
+	overflow-y: scroll;
 }
 
 ul {
