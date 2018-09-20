@@ -25,6 +25,7 @@ div {
 	padding: 24px;
 	max-height: 100vh;
 	overflow-y: scroll;
+	flex: 1;
 }
 
 ul {
