@@ -2,13 +2,13 @@
 [cooks illustrated via hostthetoast.com](http://hostthetoast.com/best-chewy-cafe-style-chocolate-chip-cookies/)
 
 ### Ingredients
-* 2 cups + 2 tablespoons all purpose flour
-* 1 teaspoon baking soda
-* 2 teaspoons cornstarch
-* 1 teaspoon salt
+* 300g all purpose flour
+* 1 tsp baking soda
+* 2 tsp cornstarch
+* 1 tsp salt
 * 1 ½ sticks (6 oz) butter, melted and cooled
-* 1 cup dark brown sugar, lightly packed*
-* ½ cup granulated sugar
+* 217g dark brown sugar, lightly packed*
+* 100g cup granulated sugar
 * 2 large eggs
 * 2 teaspoons vanilla extract
 * 1 1/2 cups dark chocolate chips, plus more for topping
