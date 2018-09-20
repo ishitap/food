@@ -2,7 +2,7 @@
 [cooks illustrated via hostthetoast.com](http://hostthetoast.com/best-chewy-cafe-style-chocolate-chip-cookies/)
 
 ### Ingredients
-* 255g all purpose flour
+* 300g all purpose flour
 * 1 tsp baking soda
 * 2 tsp cornstarch
 * 1 tsp salt
