@@ -7,8 +7,8 @@
 * 2 tsp cornstarch
 * 1 tsp salt
 * 1 ½ sticks (6 oz) butter, melted and cooled
-* 1 cup dark brown sugar, lightly packed*
-* ½ cup granulated sugar
+* 217g dark brown sugar, lightly packed*
+* 100g cup granulated sugar
 * 2 large eggs
 * 2 teaspoons vanilla extract
 * 1 1/2 cups dark chocolate chips, plus more for topping
