@@ -25,7 +25,7 @@
 * 1/4 tsp salt
 * 1/2 cup + 2 tbsp ice water
 
-### For the sauce:
+#### For the sauce:
 * 3 tbsp mayo
 * 2 tbsp ketchup
 * 1/2 tsp red chili powder
