@@ -8,6 +8,7 @@
 * 1 1/2 tsp cumin powder
 * 1/3 tsp turmeric powder
 * 1/4 tsp black pepper
+* 1/2 or 1 tsp salt
 
 #### For the potato mix:
 * 1 tbsp butter
@@ -16,8 +17,13 @@
 * 3 potatoes, boiled and peeled and roughly mashed
 * 3/4 cup soaked poha
 
-### For the batter:
-* 
+#### For the batter:
+* 1/4 cup flour
+* 1/8 cup cornstarch
+* 1/8 cup cornmeal
+* 2 tsp oil
+* 1/4 tsp salt
+* 1/2 cup + 2 tbsp ice water
 
 ### For the sauce:
 * 3 tbsp mayo
