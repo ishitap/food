@@ -1,4 +1,4 @@
-# Indian Chili Lime Shrimp
+# Chili Lime Shrimp
 ### Ingredients
 * Oil
 * Shrimp
