@@ -18,7 +18,7 @@
 * 1 bay leaf
 * 2 tbsp minced garlic
 
-#### Part III (sauce)
+#### Part III (putting it together)
 * 1.25 cups tomato puree
 * 2 tsp garam masala
 * 1/2 tbsp roasted cumin powder
