@@ -1,5 +1,5 @@
 # Minestrone
-[Mark Bittman](https://www.amazon.com/How-Cook-Everything-Vegetarian-Meatless/dp/0764524836)
+Mark Bittman's [How to Cook Everything Vegetarian](https://www.amazon.com/How-Cook-Everything-Vegetarian-Meatless/dp/0764524836)
 
 ### Ingredients
 * 1/4 cup olive oil
