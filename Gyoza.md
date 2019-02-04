@@ -1,4 +1,4 @@
-# Gyoza
+# ギョーザ
 [adapted from japanese dumplings - seriouseats.com](https://www.seriouseats.com/recipes/2015/03/the-best-japanese-pork-and-cabbage-dumplings-gyoza-recipe.html)
 
 ### Ingredients
