@@ -11,12 +11,12 @@
 * 2 eggs
 * 540 g (4.5 cups) bread flour
 
-#### FILLING
+#### Filling
 * 1 cup brown sugar
 * 2.5 tbsp cinnamon
 * 1/3 cup butter, softened
 
-#### ICING
+#### Icing
 * 3 oz cream cheese, softened
 * 1/4 cup butter, softened
 * 1.5 cups powdered sugar
