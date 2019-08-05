@@ -1,5 +1,4 @@
 # Cilantro Chicken Tacos
-[adapted from san antonio style tacos - seriouseats.com](https://www.seriouseats.com/recipes/2015/04/puffy-tacos-ground-beef-san-antonio-recipe.html)
 
 ### Ingredients
 #### Chicken marinade
@@ -10,7 +9,7 @@
 
 #### Cilantro sauce
 * 1 bunch cilantro
-* 2 tbsp minced garlic
+* 2-3 cloves minced garlic
 * 2 jalapenos
 * 1 tsp ground cardamom
 * 3/4 tsp ground cumin
