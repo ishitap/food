@@ -1,4 +1,4 @@
-# Shakshuka
+# Mumma's Chicken
 
 ### Ingredients
 #### Part 1
