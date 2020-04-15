@@ -9,7 +9,8 @@
 * 1/2 tsp turmeric powder
 * 3/4 tsp coriander powder
 * 3/4 tsp cumin powder
-* a dash of black pepper
+* 1/4 tsp red chili powder (adjust based on the spiciness of your chili powder)
+* a few turns of freshly ground black pepper
 
 #### Part 2
 * ~ 2tbsp cooking oil
