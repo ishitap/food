@@ -87,6 +87,7 @@ ol li {
 	body {
 		padding-left: 24px;
 		padding-right: 24px;
+		display: block;
 	}
 
 	body > * {
